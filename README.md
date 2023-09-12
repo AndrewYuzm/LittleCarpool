@@ -20,6 +20,7 @@ For real-time communication, the server has a WebSocket interface, processed thr
 实时通讯服务使用服务器开通WebSocket接口，使用Workerman/Webman框架进行处理，并对接数据库
 
 Screen Shot:
+
 ![1441694482850_ pic](https://github.com/AndrewYuzm/LittleCarpool/assets/118711557/8cbdc9f9-abe0-429b-b229-20bb9c13b5ed)
 
 ![1451694483249_ pic](https://github.com/AndrewYuzm/LittleCarpool/assets/118711557/fdaf964a-f202-42a6-9fed-bcfea013a555)
