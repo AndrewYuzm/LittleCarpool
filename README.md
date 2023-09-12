@@ -1,4 +1,4 @@
-Note: This is not an open sourse project.
+Note: This is not an open source project.
 # LittleCarpool
 A Web APP for Carpooling, based on Wechat mini-program
 Support English, Chinese
